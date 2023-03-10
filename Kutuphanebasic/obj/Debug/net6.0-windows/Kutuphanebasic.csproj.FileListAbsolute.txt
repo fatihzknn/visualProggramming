@@ -1,0 +1,17 @@
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\bin\Debug\net6.0-windows\Kutuphanebasic.exe
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\bin\Debug\net6.0-windows\Kutuphanebasic.deps.json
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\bin\Debug\net6.0-windows\Kutuphanebasic.runtimeconfig.json
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\bin\Debug\net6.0-windows\Kutuphanebasic.dll
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\bin\Debug\net6.0-windows\Kutuphanebasic.pdb
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\obj\Debug\net6.0-windows\Kutuphanebasic.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\obj\Debug\net6.0-windows\Kutuphanebasic.Form1.resources
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\obj\Debug\net6.0-windows\Kutuphanebasic.csproj.GenerateResource.cache
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\obj\Debug\net6.0-windows\Kutuphanebasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\obj\Debug\net6.0-windows\Kutuphanebasic.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\obj\Debug\net6.0-windows\Kutuphanebasic.AssemblyInfo.cs
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\obj\Debug\net6.0-windows\Kutuphanebasic.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\obj\Debug\net6.0-windows\Kutuphanebasic.dll
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\obj\Debug\net6.0-windows\refint\Kutuphanebasic.dll
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\obj\Debug\net6.0-windows\Kutuphanebasic.pdb
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\obj\Debug\net6.0-windows\Kutuphanebasic.genruntimeconfig.cache
+C:\Users\fatih\Desktop\visual_programming\Kutuphanebasic\obj\Debug\net6.0-windows\ref\Kutuphanebasic.dll

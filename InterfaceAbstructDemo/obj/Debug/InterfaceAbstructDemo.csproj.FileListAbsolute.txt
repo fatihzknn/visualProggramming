@@ -1,0 +1,8 @@
+C:\Users\fatih\Desktop\visual_programming\InterfaceAbstructDemo\obj\Debug\InterfaceAbstructDemo.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\visual_programming\InterfaceAbstructDemo\obj\Debug\InterfaceAbstructDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\Desktop\visual_programming\InterfaceAbstructDemo\obj\Debug\InterfaceAbstructDemo.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\visual_programming\InterfaceAbstructDemo\bin\Debug\InterfaceAbstructDemo.exe.config
+C:\Users\fatih\Desktop\visual_programming\InterfaceAbstructDemo\bin\Debug\InterfaceAbstructDemo.exe
+C:\Users\fatih\Desktop\visual_programming\InterfaceAbstructDemo\bin\Debug\InterfaceAbstructDemo.pdb
+C:\Users\fatih\Desktop\visual_programming\InterfaceAbstructDemo\obj\Debug\InterfaceAbstructDemo.exe
+C:\Users\fatih\Desktop\visual_programming\InterfaceAbstructDemo\obj\Debug\InterfaceAbstructDemo.pdb

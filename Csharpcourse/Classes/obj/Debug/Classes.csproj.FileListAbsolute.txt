@@ -1,0 +1,8 @@
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Classes\bin\Debug\Classes.exe.config
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Classes\bin\Debug\Classes.exe
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Classes\bin\Debug\Classes.pdb
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Classes\obj\Debug\Classes.exe
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Classes\obj\Debug\Classes.pdb

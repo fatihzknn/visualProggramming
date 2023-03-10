@@ -1,0 +1,17 @@
+C:\Users\fatih\Desktop\visual_programming\fati\bin\Debug\net6.0-windows\fati.exe
+C:\Users\fatih\Desktop\visual_programming\fati\bin\Debug\net6.0-windows\fati.deps.json
+C:\Users\fatih\Desktop\visual_programming\fati\bin\Debug\net6.0-windows\fati.runtimeconfig.json
+C:\Users\fatih\Desktop\visual_programming\fati\bin\Debug\net6.0-windows\fati.dll
+C:\Users\fatih\Desktop\visual_programming\fati\bin\Debug\net6.0-windows\fati.pdb
+C:\Users\fatih\Desktop\visual_programming\fati\obj\Debug\net6.0-windows\fati.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\visual_programming\fati\obj\Debug\net6.0-windows\fati.Form1.resources
+C:\Users\fatih\Desktop\visual_programming\fati\obj\Debug\net6.0-windows\fati.csproj.GenerateResource.cache
+C:\Users\fatih\Desktop\visual_programming\fati\obj\Debug\net6.0-windows\fati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\visual_programming\fati\obj\Debug\net6.0-windows\fati.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\visual_programming\fati\obj\Debug\net6.0-windows\fati.AssemblyInfo.cs
+C:\Users\fatih\Desktop\visual_programming\fati\obj\Debug\net6.0-windows\fati.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\visual_programming\fati\obj\Debug\net6.0-windows\fati.dll
+C:\Users\fatih\Desktop\visual_programming\fati\obj\Debug\net6.0-windows\refint\fati.dll
+C:\Users\fatih\Desktop\visual_programming\fati\obj\Debug\net6.0-windows\fati.pdb
+C:\Users\fatih\Desktop\visual_programming\fati\obj\Debug\net6.0-windows\fati.genruntimeconfig.cache
+C:\Users\fatih\Desktop\visual_programming\fati\obj\Debug\net6.0-windows\ref\fati.dll

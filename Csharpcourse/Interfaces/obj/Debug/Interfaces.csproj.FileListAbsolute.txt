@@ -1,0 +1,8 @@
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Interfaces\obj\Debug\Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Interfaces\obj\Debug\Interfaces.pdb

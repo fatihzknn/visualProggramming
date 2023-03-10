@@ -1,0 +1,8 @@
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Inheritance\obj\Debug\Inheritance.pdb

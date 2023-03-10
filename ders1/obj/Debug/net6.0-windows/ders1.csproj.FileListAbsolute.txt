@@ -1,0 +1,17 @@
+C:\Users\fatih\Desktop\visual_programming\ders1\obj\Debug\net6.0-windows\ders1.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\visual_programming\ders1\obj\Debug\net6.0-windows\ders1.Form1.resources
+C:\Users\fatih\Desktop\visual_programming\ders1\obj\Debug\net6.0-windows\ders1.csproj.GenerateResource.cache
+C:\Users\fatih\Desktop\visual_programming\ders1\obj\Debug\net6.0-windows\ders1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\visual_programming\ders1\obj\Debug\net6.0-windows\ders1.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\visual_programming\ders1\obj\Debug\net6.0-windows\ders1.AssemblyInfo.cs
+C:\Users\fatih\Desktop\visual_programming\ders1\obj\Debug\net6.0-windows\ders1.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\visual_programming\ders1\bin\Debug\net6.0-windows\ders1.exe
+C:\Users\fatih\Desktop\visual_programming\ders1\bin\Debug\net6.0-windows\ders1.deps.json
+C:\Users\fatih\Desktop\visual_programming\ders1\bin\Debug\net6.0-windows\ders1.runtimeconfig.json
+C:\Users\fatih\Desktop\visual_programming\ders1\bin\Debug\net6.0-windows\ders1.dll
+C:\Users\fatih\Desktop\visual_programming\ders1\bin\Debug\net6.0-windows\ders1.pdb
+C:\Users\fatih\Desktop\visual_programming\ders1\obj\Debug\net6.0-windows\ders1.dll
+C:\Users\fatih\Desktop\visual_programming\ders1\obj\Debug\net6.0-windows\refint\ders1.dll
+C:\Users\fatih\Desktop\visual_programming\ders1\obj\Debug\net6.0-windows\ders1.pdb
+C:\Users\fatih\Desktop\visual_programming\ders1\obj\Debug\net6.0-windows\ders1.genruntimeconfig.cache
+C:\Users\fatih\Desktop\visual_programming\ders1\obj\Debug\net6.0-windows\ref\ders1.dll

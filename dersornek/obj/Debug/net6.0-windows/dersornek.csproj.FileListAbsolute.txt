@@ -1,0 +1,17 @@
+C:\Users\fatih\Desktop\visual_programming\dersornek\obj\Debug\net6.0-windows\dersornek.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\visual_programming\dersornek\obj\Debug\net6.0-windows\dersornek.Form1.resources
+C:\Users\fatih\Desktop\visual_programming\dersornek\obj\Debug\net6.0-windows\dersornek.csproj.GenerateResource.cache
+C:\Users\fatih\Desktop\visual_programming\dersornek\obj\Debug\net6.0-windows\dersornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\visual_programming\dersornek\obj\Debug\net6.0-windows\dersornek.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\visual_programming\dersornek\obj\Debug\net6.0-windows\dersornek.AssemblyInfo.cs
+C:\Users\fatih\Desktop\visual_programming\dersornek\obj\Debug\net6.0-windows\dersornek.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\visual_programming\dersornek\bin\Debug\net6.0-windows\dersornek.exe
+C:\Users\fatih\Desktop\visual_programming\dersornek\bin\Debug\net6.0-windows\dersornek.deps.json
+C:\Users\fatih\Desktop\visual_programming\dersornek\bin\Debug\net6.0-windows\dersornek.runtimeconfig.json
+C:\Users\fatih\Desktop\visual_programming\dersornek\bin\Debug\net6.0-windows\dersornek.dll
+C:\Users\fatih\Desktop\visual_programming\dersornek\bin\Debug\net6.0-windows\dersornek.pdb
+C:\Users\fatih\Desktop\visual_programming\dersornek\obj\Debug\net6.0-windows\dersornek.dll
+C:\Users\fatih\Desktop\visual_programming\dersornek\obj\Debug\net6.0-windows\refint\dersornek.dll
+C:\Users\fatih\Desktop\visual_programming\dersornek\obj\Debug\net6.0-windows\dersornek.pdb
+C:\Users\fatih\Desktop\visual_programming\dersornek\obj\Debug\net6.0-windows\dersornek.genruntimeconfig.cache
+C:\Users\fatih\Desktop\visual_programming\dersornek\obj\Debug\net6.0-windows\ref\dersornek.dll

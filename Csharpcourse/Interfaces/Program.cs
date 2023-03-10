@@ -1,0 +1,83 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Interfaces
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // InterfacesIntro();
+            //IPerson person  = new IPerson(); // IPerson üzerinden obje oluşturulamaz
+
+            //Demo();
+
+            // kendi verini hem oracle hem de sql veri tabanına yazmak istiyorsun ne yaparsın:
+            ICustomerDal[] customerDals = new ICustomerDal[3]
+            {
+                new SqlServerCustomerDal(),
+                new OracleServerCustomerDal(),
+                new MySqlCustomerDal()
+            };
+            foreach (var customerDal in customerDals)
+            {
+                customerDal.Add();
+            }
+
+
+            Console.ReadLine();
+        }
+
+        private static void Demo()
+        {
+            CustomerManager customerManager = new CustomerManager();
+            customerManager.Add(new OracleServerCustomerDal());
+        }
+
+        private static void InterfacesIntro()
+        {
+            PersonManager personManager = new PersonManager();
+            personManager.Add(new Customer { FirstName = "Fatih", LastName = "Özkan", Address = "İstanbul" });
+            Student student = new Student
+            {
+                Id = 1,
+                FirstName = "Kaan",
+                LastName = "Karyağdı",
+                Department = "Engineer"
+            };
+            personManager.Add(student);
+        }
+    }
+    interface IPerson //Soyut nesne
+    {
+        int Id { get; set; }
+        string FirstName { get; set; }
+        string LastName { get; set; }
+
+    }
+    class Customer : IPerson //Somut nesne
+    {
+        public int Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Address { get; set; }
+
+    }
+    class Student : IPerson //Somut nesne
+    {
+        public int Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Department { get; set; }
+    }
+    class PersonManager
+    {
+        public void Add(IPerson person)
+        {
+            Console.WriteLine(person.FirstName);
+        }
+    }
+}

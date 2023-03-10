@@ -1,0 +1,8 @@
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\conditionals\bin\Debug\conditionals.exe.config
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\conditionals\bin\Debug\conditionals.exe
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\conditionals\bin\Debug\conditionals.pdb
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\conditionals\obj\Debug\conditionals.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\conditionals\obj\Debug\conditionals.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\conditionals\obj\Debug\conditionals.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\conditionals\obj\Debug\conditionals.exe
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\conditionals\obj\Debug\conditionals.pdb

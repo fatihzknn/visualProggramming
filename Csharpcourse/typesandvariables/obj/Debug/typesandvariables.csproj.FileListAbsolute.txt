@@ -1,0 +1,8 @@
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\typesandvariables\bin\Debug\typesandvariables.exe.config
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\typesandvariables\bin\Debug\typesandvariables.exe
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\typesandvariables\bin\Debug\typesandvariables.pdb
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\typesandvariables\obj\Debug\typesandvariables.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\typesandvariables\obj\Debug\typesandvariables.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\typesandvariables\obj\Debug\typesandvariables.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\typesandvariables\obj\Debug\typesandvariables.exe
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\typesandvariables\obj\Debug\typesandvariables.pdb

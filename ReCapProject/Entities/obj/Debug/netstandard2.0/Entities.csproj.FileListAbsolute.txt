@@ -1,0 +1,10 @@
+C:\Users\fatih\Desktop\visual_programming\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\fatih\Desktop\visual_programming\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\fatih\Desktop\visual_programming\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\fatih\Desktop\visual_programming\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\visual_programming\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\visual_programming\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\visual_programming\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\fatih\Desktop\visual_programming\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\visual_programming\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\fatih\Desktop\visual_programming\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb

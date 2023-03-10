@@ -1,0 +1,8 @@
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Methods\bin\Debug\Methods.exe.config
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Methods\bin\Debug\Methods.exe
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Methods\bin\Debug\Methods.pdb
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Methods\obj\Debug\Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Methods\obj\Debug\Methods.exe
+C:\Users\fatih\Desktop\visual_programming\Csharpcourse\Methods\obj\Debug\Methods.pdb
